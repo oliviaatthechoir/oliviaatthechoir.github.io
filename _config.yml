@@ -1,1 +1,13 @@
+# Site settings 
+
+title: Liv Coro CV 
+author: 
+  name: Liv Coro 
+  email: livcoro9@gmail.com
+ description: "..."
+ 
+
+
+
+# Build settings 
 theme: minimal 
